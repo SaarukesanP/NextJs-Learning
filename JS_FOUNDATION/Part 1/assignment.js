@@ -1,0 +1,9 @@
+let score = 10+20; // Using variables in an operation
+let num1 = 10;
+num1 += 5; // num1 is now 15 (10 + 5)
+let num2 = 20;
+num2 -= 5; // num2 is now 15 (20 - 5)
+let num3 = 5;
+num3 *= 2; // num3 is now 10 (5 * 2)
+let num4 = 10;
+num4 /= 2; // num4 is now 5 (10 / 2)
